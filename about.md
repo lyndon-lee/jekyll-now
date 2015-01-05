@@ -12,5 +12,5 @@ The great Way makes everything the most simple
 
 ### Contact me
 
-[624708862@qq.com](mailto:email@domain.com)
-手机号：15150681619
+Email：[624708862@qq.com](mailto:email@domain.com)
+PN：15150681619
