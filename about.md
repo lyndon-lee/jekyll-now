@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The great Way makes everything the most simple
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+地址：江苏省南京市东南大学软件学院
+邮编：211189
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:624708862@qq.com)
+手机号：15150681619
