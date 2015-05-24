@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Education from harvord open class
+title: Markdown Style Guide
 ---
 
 
