@@ -5,6 +5,9 @@ title: countrySide
 
 ##Informtion and transformation##
 1. We always get information from our teachers including data,knowledge and so on. But we haven't learnt how to transform it.(change the shape of forum)
+2. fadfa
+3. dfa
+4. fda
  
 ##概要##
 
