@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education from harvord
+title: Education from Harvord
 ---
 
 ##Informtion and transformation##
