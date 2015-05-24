@@ -1,14 +1,24 @@
 ---
 layout: post
-title: 农村那些事儿
+title: Education from Harvord
 ---
 
+##Informtion and transformation##
+1. We always get information from our teachers including data,knowledge and so on. But we haven't learnt how to transform it.(change the shape of forum)
+2. Commen sense is not commen
+3. Subtraction is easier than addtion
+4. Find the David inside
+5. Sometimes the limitation of showing our potention is the influence from the believment of the knowledge we have learnt
 
-中国农村并不是像小说中写的那样安静祥和，勤劳朴实，人民安居乐业，邻里间互帮互助的和平局面。在这里，时时刻刻都在发生着一些事情，微不足道，或者是说这里的人们已经足够麻木到无视这样的事情。就拿我寒假回了一次农村老家，每次回老家我都要问一下姥姥，村里哪些人不在了，这一年发生了什么。这次回家，除了那些鸡毛蒜皮的小事儿，我得知到最让我感到可悲的一件事是，我们村在十月份的时候有一个高一的小姑娘跳河自尽了；最让我痛恨的一件事是，在那个已经做了30年村委书记的院子里停了一辆奔驰。前几天，南京市鼓楼那边发生了官员打护士的事件在全国闹得沸沸扬扬，先不说中国人民站队的问题，单纯看这件事情本身，这样的事情有如此的影响力，在信息相对开放的城市有这样的背景。如果假设官员是错的，最起码给了她一个伸张正义的机会，或者是说维护自己的权利的机会。而在农村这样的事情比比皆是，可是他们没有伸张正义的权利甚至没有维护权利的意识，中国现在确实改革开放富了很多的人，中国经济也得到了长足的发展，但是不可否认我们有占据总人口50%以上的农村人口。我农村老家在中国的沿海地区，经济，交通等尚且发达，我很难想象西北中部山区的样子。他们可能已经达到了温饱，甚至很多人已经相对来说比较富有，但是他们不会说话，也不敢说话，当然有些时候也不能说话。
 
-##阶层化问题##
+**One case**
 
-中国农村无疑是最底层。可是他们又有多少向上发展的机会呢，也就是阶层间的流动问题。我舅舅在老家开了一家废铁加工厂，因为舅舅头脑灵活经营合理，年收入也有个20-30万，也就是现在说的土豪，可是我看到个奇怪的现象，过年舅舅请客的时候，还是要给那些官员点头哈腰，可以说完全没有地位。还有一个例子，我大伯写的一手好的毛笔字，因为他儿子在南京这边有一份不错的工作，他为了照看孙子来到了南京，自己教授小学生书法课，获得了家长的好评，据他们说没有看到过业务这么棒的老师。举这两个例子想说明一下，农村中不乏能人，如果给他们跨越阶层的机会，对这个社会来说具有极大地意义，但同时他们也因某种原因无法解开枷锁，逃离他们的肖申克，尽管空间上可以，但内心确是永远被隔离的。
+This is Michelangelo.
+One day he was asked by a journalist of his time, "how did you create this most amazing masterpiece, David?", to which Michelangelo responded, "it was easy. I went to the quarry. I saw this huge piece of marble. And in it I saw David. All I needed to do was to chip away the excess stone, to get rid of the marble that shouldn't have been there.
+Subtraction is easier than addtion
 
-##教育问题##
+**What's happiness about**
+
+It's about chipping away the excess stone. It's about getting rid of limitations, of barriers, whether it's the fear of failure, something that we didn't have as kids. But today most people in our culture have it. It's about chipping away perfectionism that is debilitating and often hurts us. It's about chipping away our ability for success, because maybe we are afraid of success. Maybe we feel guilty about some of the things that we have in our life, and that in turn limits us. Maybe it's about chipping away the limitations on our relationships in while we don't thrive within them.
+
 
