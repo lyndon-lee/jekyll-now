@@ -3,6 +3,12 @@ layout: post
 title: countrySide
 ---
 
+##Informtion and transformation##
+1. We always get information from our teachers including data,knowledge and so on. But we haven't learnt how to transform it.(change the shape of forum)
+2. Commen sense is not commen
+3. Subtraction is easier than addtion
+4. Find the David inside
+5. Sometimes the limitation of showing our potention is the influence from the believment of the knowledge we have learnt
 
 
 中国农村并不是像小说中写的那样安静祥和，勤劳朴实，人民安居乐业，邻里间互帮互助的和平局面。在这里，时时刻刻都在发生着一些事情，微不足道，或者是说这里的人们已经足够麻木到无视这样的事情。就拿我寒假回了一次农村老家，每次回老家我都要问一下姥姥，村里哪些人不在了，这一年发生了什么。这次回家，除了那些鸡毛蒜皮的小事儿，我得知到最让我感到可悲的一件事是，我们村在十月份的时候有一个高一的小姑娘跳河自尽了；最让我痛恨的一件事是，在那个已经做了30年村委书记的院子里停了一辆奔驰。前几天，南京市鼓楼那边发生了官员打护士的事件在全国闹得沸沸扬扬，先不说中国人民站队的问题，单纯看这件事情本身，这样的事情有如此的影响力，在信息相对开放的城市有这样的背景。如果假设官员是错的，最起码给了她一个伸张正义的机会，或者是说维护自己的权利的机会。而在农村这样的事情比比皆是，可是他们没有伸张正义的权利甚至没有维护权利的意识，中国现在确实改革开放富了很多的人，中国经济也得到了长足的发展，但是不可否认我们有占据总人口50%以上的农村人口。我农村老家在中国的沿海地区，经济，交通等尚且发达，我很难想象西北中部山区的样子。他们可能已经达到了温饱，甚至很多人已经相对来说比较富有，但是他们不会说话，也不敢说话，当然有些时候也不能说话。
