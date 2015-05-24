@@ -11,7 +11,7 @@ title: Education from Harvord
 5. Sometimes the limitation of showing our potention is the influence from the believment of the knowledge we have learnt
 
 
-**one case**
+**One case**
 
 This is Michelangelo.
 One day he was asked by a journalist of his time, "how did you create this most amazing masterpiece, David?", to which Michelangelo responded, "it was easy. I went to the quarry. I saw this huge piece of marble. And in it I saw David. All I needed to do was to chip away the excess stone, to get rid of the marble that shouldn't have been there.
